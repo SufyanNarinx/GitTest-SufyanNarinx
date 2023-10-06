@@ -1,0 +1,2 @@
+Ceci est un fichier texte de test. 
+J'y apporte des modifications !
